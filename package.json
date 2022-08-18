@@ -1,13 +1,13 @@
 {
-  "name": "xhunter-server",
+  "name": "Haryanvi-server",
   "version": "1.0.0",
-  "description": "backbone for xhunter app",
+  "description": "backbone for Haryanvi app",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
   "keywords": [
-    "xhunter-server"
+    "Haryanvi-server"
   ],
   "author": "anirudhmalik",
   "license": "MIT",
